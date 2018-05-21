@@ -1,2 +1,2 @@
-# volley-simple-singleton
-This code is for my friends. :)
+# Volley Simple Singleton
+Ini cara pakai volley untuk consuming API di android dengan Java.
